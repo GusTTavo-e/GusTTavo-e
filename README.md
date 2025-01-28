@@ -3,7 +3,7 @@
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas
 - 🌱 Estudando Python 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GusTTavo-e&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusTTavo-e&langs_count=1)
 
 <div style="display: inline_block"><br>
